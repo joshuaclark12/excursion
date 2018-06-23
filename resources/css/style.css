@@ -1,9 +1,11 @@
 h1,
 h2,
 h6,
+video,
+images,
 p {font-family: Verdana;
-background-color: black;
 text-align: center;}
+background-color: {black;}
 h1 {font-weight: normal;
 font-size: 50px;
 color: white;}
